@@ -1,6 +1,6 @@
 
 # Usage 
-Just copy `.vim` folder and `.vimrc` to home directory :)
+Just copy `.vim` folder and `.vimrc` to the `home` directory :)
 
 # Demo
 
