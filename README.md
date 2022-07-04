@@ -16,7 +16,7 @@ git clone https://github.com/srcery-colors/srcery-vim ~/.vim/pack/default/opt/sr
 
 | **Shortcuts** | **Action**               | **Description**                                |
 |---------------|--------------------------|------------------------------------------------|
-| **Ctrl + T**  | open file in new tab     | select file, then pres shortcut                |
+| **Ctrl + T**  | open file in new tab     | select file, then press this shortcut                |
 | **F1**        | open vim helper          |                                                |
 | **F3**        | switch between tabs      |                                                |
 | **F4**       | switch between tabs      |                                                |
